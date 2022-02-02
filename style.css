@@ -1,0 +1,155 @@
+.head1{
+    background-image:url("https://media.istockphoto.com/vectors/computer-games-seamless-background-vector-id528711245?b=1&k=6&m=528711245&s=612x612&w=0&h=zKGpDrFzAtNBAkze6CneYPH2cPtjgTIm94yJKalnpUc=");
+    height:300px;
+    margin:3px 5%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+    
+  }
+  .title{
+    background-color:grey;
+    opacity:0.9;
+    padding:40px;
+    font-size:30px;
+    
+  }
+  .nav{
+    display:flex;
+    justify-content:space-between;
+    
+  }
+  .nav>a{
+    background-color:black;
+    font-size:25px;
+     color:white;
+    opacity:0.9;
+    
+  }
+  .heading{
+    text-align:center;
+  }
+  .video{
+    text-align: center;
+  }
+  h1{
+    text-align:center;
+    font-size:2px;
+  }
+  .card{
+    width:30%;
+    height:50vh;
+    background:url(https://plos.org/wp-content/uploads/2020/07/abstract-image_color-tone-1024x682.jpg);
+
+  }
+  .cards{
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+  }
+  .card h1{
+    font-size:large;
+    color:aliceblue;
+  }
+  .card p{
+    font-size:20px;
+    color:aliceblue;
+  }
+  h1{
+    font-size:20px;
+  text-align: left;
+  }
+  
+  
+  .friend{
+    width:20%;
+    height:50vh;
+    
+    background:url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v960-ning-30.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=63dd5f402645ef52fb7dfb592aec765a)
+  }
+.friends{
+  display:flex;
+  align-items:center;
+  justify-content: space-evenly;
+  text-align: center;
+}
+.friends img{
+  width:40%;
+  height: 30%;
+  border-radius: 50px;
+}
+.friends h1{
+  text-align: center;
+}
+.games{
+  width: 100%;
+  height:50vh;
+  display:flex;
+  align-items:center;
+  justify-content:space-evenly;
+}
+.gamescard1{
+  width:20%;
+  height:40vh;
+  background:url("https://play-lh.googleusercontent.com/JRd05pyBH41qjgsJuWduRJpDeZG0Hnb0yjf2nWqO7VaGKL10-G5UIygxED-WNOc3pg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  
+}
+.gamescard2{
+  width:20%;
+  height:40vh;
+  background:urL("https://m.media-amazon.com/images/M/MV5BYTg4OGFmZjgtNjY3MS00MjJiLWJkMDItM2JjNTcxYjY4MzI1XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_FMjpg_UX1000_.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+}
+.gamescard3{
+  width:20%;
+  height:40vh;
+  background:url("https://cdn1.epicgames.com/offer/fn/19BR_KeyArt_EGS_Launcher_Blade_2560x1440_2560x1440-0c719814e3356a4726560c70f0462e7b");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.gamescard4{
+  width:20%;
+  height:40vh;
+  background:url("https://m.media-amazon.com/images/M/MV5BZTZlMWQxMDMtMmIyYi00YTk5LWExNjktOTU2NDA1Zjc2OGI0XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg");
+background-repeat:no-repeat;
+background-size: cover;
+background-position: center;
+}
+.gamescard1:hover{
+  width:19%;
+  cursor:pointer;
+ }
+ .gamescard2:hover{
+   width:19%;
+   cursor:pointer;
+ }
+ .gamescard3:hover{
+   width:19%;
+   cursor:pointer;
+ }
+ .gamescard4:hover{
+   width:19%;
+   cursor:pointer;
+ }
+ .head2{
+   background-image: url("https://c.tenor.com/6ZUs587t-_YAAAAM/blue-heart-black.gif");
+height:200px;
+margin: 3px 5px;
+display:flex;
+justify-content: center;
+align-items: center;
+ }
+ .title{
+   background-color:red;
+   padding:20px;
+   opacity: 0.9;
+   margin:3px 7px;
+   border-radius: 30px;
+ }
